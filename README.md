@@ -1,4 +1,4 @@
-# BioSamples-facet_concurrence
+# biosamples-facet-concurrence
 
 ## About
 
